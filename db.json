@@ -2,7 +2,7 @@
   "aboutdata": [
     {
           "mainheading": "About - The Custom Websites",
-          "info": "The Custom Websites started as a Web Development company that aims to help clients build Custom websites and mobile applications, which in turn helps them establish and grow their businesses. We have worked with 300+ clients on over 500 projects ranging from small startups to massive projects of largely settled organizations. Armed with the best team of employees, we hear, understand, and provide solutions to our clients’ problems. Our company will take your business idea to the next level with the help of our dedicated staff and the latest technology.",
+          "info": "<a href='/' className='text-blue-500 hover:text-blue-600'>The Custom Websites</a> started as a Web Development company that aims to help clients<a href='custom-web-development' className='text-blue-500 hover:text-blue-600'>build Custom websites</a>  and mobile applications, which in turn helps them establish and grow their businesses. We have worked with 300+ clients on over 500 projects ranging from small startups to massive projects of largely settled organizations. Armed with the best team of employees, we <strong>hear, understand</strong>, and <strong>provide</strong> solutions to our clients’ problems. Our company will take your business idea to the next level with the help of our dedicated staff and the latest technology.",
       "description": [
         {
           "heading": "Our Major Services",
@@ -20,8 +20,8 @@
         },
         {
           "heading": "Together WE CAN, Together WE WILL",
-          "text": "We strongly believe that 'One Person Never Does Great Things In Business. A Team Of People Does Them'.",
-          "additionalText": "The Custom Websites is a company with a highly dedicated team..."
+          "text": "We strongly believe that <strong>'One Person Never Does Great Things In Business.</strong> A Team Of People Does Them'.",
+          "additionalText": "The Custom Websites is a company with highly dedicated team members that work together to add value to the clients’ business. Each member of our team is committed to their work. Through collaboration and joint effort, we <strong>CREATE</strong> solutions that solve our clients’ problems. We hire our team members through careful recruiting procedures, invest in their training, and make them able to serve the clients. We gained a team of hard-working, committed, and inspiringly skilled professionals who believe in delivering quality to the client throughout our growth."
         },
         {
           "heading": "It's Not About Us. It's About Our Clients",
@@ -37,7 +37,7 @@
           "heading": "WHY YOU SHOULD CHOOSE US",
           "text": "We create manageable websites, develop software with an excellent user experience, and provide designs that confirm the ROI. We work to create magic through YOUR ideas and OUR skills. Feel free to contact us any time – if you want to get the best out of your vision, our team will do whatever it takes to make your business outstand.",
           "additionalText": "Connect with us through our social media platforms to stay tuned about our services. Get in touch with 'The Customer Websites' today, and we will help you create magic through your idea and vision.",
-          "list": [
+          "choose": [
             "We build trust through end-to-end development services.",
             "We provide quality work done by experts in the relevant field.",
             "We have a team of experts who are upgraded to meet the needs of technology and the business world.",
