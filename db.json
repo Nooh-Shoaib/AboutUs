@@ -14,7 +14,7 @@
         {
           "heading": "Our Major Services",
           "text": "Clients: We have worked with 300+ clients worldwide, including clients from the USA, UK, and Canada.",
-          "list" :[
+          "list": [
             "Custom Website Development",
             "Mobile App Development",
             "Search Engine Optimization",
@@ -28,7 +28,7 @@
         {
           "heading": "Together WE CAN, Together WE WILL",
           "text": "We strongly believe that 'One Person Never Does Great Things In Business. A Team Of People Does Them'.",
-          "additionalText": "The Custom Websites is a company with highly dedicated team members that work together to add value to the clients’ business. Each member of our team is committed to their work. Through collaboration and joint effort, we CREATE solutions that solve our clients’ problems. We hire our team members through careful recruiting procedures, invest in their training, and make them able to serve the clients. We gained a team of hard-working, committed, and inspiringly skilled professionals who believe in delivering quality to the client throughout our growth."
+          "additionalText": "The Custom Websites is a company with a highly dedicated team..."
         },
         {
           "heading": "It's Not About Us. It's About Our Clients",
@@ -44,14 +44,13 @@
           "heading": "WHY YOU SHOULD CHOOSE US",
           "text": "We create manageable websites, develop software with an excellent user experience, and provide designs that confirm the ROI. We work to create magic through YOUR ideas and OUR skills. Feel free to contact us any time – if you want to get the best out of your vision, our team will do whatever it takes to make your business outstand.",
           "additionalText": "Connect with us through our social media platforms to stay tuned about our services. Get in touch with 'The Customer Websites' today, and we will help you create magic through your idea and vision.",
-           "list" :[
+          "list": [
             "We build trust through end-to-end development services.",
             "We provide quality work done by experts in the relevant field.",
             "We have a team of experts who are upgraded to meet the needs of technology and the business world.",
             "An expert supervises each project to avoid any mess.",
             "Clients can contact us 24/7."
           ]
-       
         }
       ]
     }
