@@ -13,7 +13,17 @@
         },
         {
           "heading": "Our Major Services",
-          "text": "Clients: We have worked with 300+ clients worldwide, including clients from the USA, UK, and Canada."
+          "text": "Clients: We have worked with 300+ clients worldwide, including clients from the USA, UK, and Canada.",
+          "list" :[
+            "Custom Website Development",
+            "Mobile App Development",
+            "Search Engine Optimization",
+            "DevOps Consulting",
+            "Web Design Services",
+            "Data Strategy Roadmap",
+            "Graphics & Branding",
+            "Custom CMS Development"
+          ]
         },
         {
           "heading": "Together WE CAN, Together WE WILL",
@@ -33,7 +43,15 @@
         {
           "heading": "WHY YOU SHOULD CHOOSE US",
           "text": "We create manageable websites, develop software with an excellent user experience, and provide designs that confirm the ROI. We work to create magic through YOUR ideas and OUR skills. Feel free to contact us any time – if you want to get the best out of your vision, our team will do whatever it takes to make your business outstand.",
-          "additionalText": "Connect with us through our social media platforms to stay tuned about our services. Get in touch with 'The Customer Websites' today, and we will help you create magic through your idea and vision."
+          "additionalText": "Connect with us through our social media platforms to stay tuned about our services. Get in touch with 'The Customer Websites' today, and we will help you create magic through your idea and vision.",
+           "list" :[
+            "We build trust through end-to-end development services.",
+            "We provide quality work done by experts in the relevant field.",
+            "We have a team of experts who are upgraded to meet the needs of technology and the business world.",
+            "An expert supervises each project to avoid any mess.",
+            "Clients can contact us 24/7."
+          ]
+       
         }
       ]
     }
