@@ -1,11 +1,9 @@
 {
   "aboutdata": [
     {
+          "mainheading": "About - The Custom Websites",
+          "info": "The Custom Websites started as a Web Development company that aims to help clients build Custom websites and mobile applications, which in turn helps them establish and grow their businesses. We have worked with 300+ clients on over 500 projects ranging from small startups to massive projects of largely settled organizations. Armed with the best team of employees, we hear, understand, and provide solutions to our clients’ problems. Our company will take your business idea to the next level with the help of our dedicated staff and the latest technology.",
       "description": [
-        {
-          "heading": "About - The Custom Websites",
-          "text": "The Custom Websites started as a Web Development company that aims to help clients build Custom websites and mobile applications, which in turn helps them establish and grow their businesses. We have worked with 300+ clients on over 500 projects ranging from small startups to massive projects of largely settled organizations. Armed with the best team of employees, we hear, understand, and provide solutions to our clients’ problems. Our company will take your business idea to the next level with the help of our dedicated staff and the latest technology."
-        },
         {
           "heading": "Our Major Services",
           "text": "Clients: We have worked with 300+ clients worldwide, including clients from the USA, UK, and Canada.",
