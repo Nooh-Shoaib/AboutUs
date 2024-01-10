@@ -53,7 +53,33 @@
  "https://thecustomwebsites.com/wp-content/uploads/2023/05/4.png",
  "https://thecustomwebsites.com/wp-content/uploads/2023/05/5.png",
  "https://thecustomwebsites.com/wp-content/uploads/2023/05/6.png"
- ]
+ ],
+  "portfolio": [
+    {
+      "heading": "Titan Botanicals",
+      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/qqqbx7yozpcghuybrs35.png"
+    },
+    {
+      "heading": "Cbddy",
+      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-18.avif"
+    },
+    {
+      "heading": "My Earth Strong",
+      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-19.avif"
+    },
+    {
+      "heading": "Legacy Therapeutics",
+      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/legacy-therapeutics-scaled.webp"
+    },
+    {
+      "heading": "California Hi-Tech Plumbing",
+      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-15.avif"
+    },
+    {
+      "heading": "Medical Massage",
+      "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ezgif.com-jpg-to-avif-converter-13.avif"
+    }
+  ]
  }
  ]
 }
