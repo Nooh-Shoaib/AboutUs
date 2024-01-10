@@ -56,80 +56,99 @@
  ],
  "industries": [
  {
+ "slug": "portfolios/ecomerce",
  "text": "E-commerce",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eccommerce.png"
  },
  {
+ "slug": "portfolios/it-startups",
  "text": "IT & Startups",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/it-startups.png"
  },
  {
+ "slug": "portfolios/education-e-learning",
  "text": "Education & E-learning",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/education-elearning.png"
  },
  {
+ "slug": "portfolios/erp-system",
  "text": "ERP System",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/erp-system.png"
  },
  {
+ "slug": "portfolios/real-estate",
  "text": "Real Estate",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/real-estate.png"
  },
  {
+ "slug": "portfolios/jewelery",
  "text": "Jewelry",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/jewelry.png"
  },
  {
+ "slug": "portfolios/food-rstaurant",
  "text": "Food & Restaurant",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/food.png"
  },
  {
+ "slug": "portfolios/medical-healthcare",
  "text": "Medical & Healthcare",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/medical.png"
  },
  {
+ "slug": "portfolios/gaming",
  "text": "Gaming",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/game.png"
  },
  {
+ "slug": "portfolios/cbd",
  "text": "CBD",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/cbd-1.png"
  }
  ],
  "Offers": [
  {
+ "slug": "custom-web-development",
  "text": "Custom Web Development",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/htpyxaicaqftygqbuwev_robvzn.svg"
  },
  {
+ "slug": "uiux-design",
  "text": "UI & UX Design",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/reg4ek2hoyu2p6xijshf_ohzbys.svg"
  },
  {
+ "slug": "sem",
  "text": "SEM",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/pskqvpgwfpvaxirnkflh_iaawf9.svg"
  },
  {
+ "slug": "app-development",
  "text": "App Development",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/reg4ek2hoyu2p6xijshf_ohzbys.svg"
  },
  {
+ "slug": "graphic-branding",
  "text": "Graphics & Branding",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/fd9amtrvdglzmm16surr_l3qqfs.svg"
  },
  {
+ "slug": "quality-assurance",
  "text": "Quality Assurance",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/sifwzze7kiehbwslcbrm_waex1r.svg"
  },
  {
+ "slug": "devops",
  "text": "DevOps",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ufryavrsvi0lysbio9z2_drbs0q.svg"
  },
  {
+ "slug": "cms",
  "text": "CMS",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/fktzbjjevgohlyylbtpf.svg"
  },
  {
+ "slug": "seo",
  "text": "SEO",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/untk6q64u64b7iamu1dt.svg"
  }
