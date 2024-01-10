@@ -56,52 +56,52 @@
  ],
  "industries": [
  {
- "slug": "portfolios/ecomerce",
+ "slug": "ecomerce",
  "text": "E-commerce",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eccommerce.png"
  },
  {
- "slug": "portfolios/it-startups",
+ "slug": "it-startups",
  "text": "IT & Startups",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/it-startups.png"
  },
  {
- "slug": "portfolios/education-e-learning",
+ "slug": "education-e-learning",
  "text": "Education & E-learning",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/education-elearning.png"
  },
  {
- "slug": "portfolios/erp-system",
+ "slug": "erp-system",
  "text": "ERP System",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/erp-system.png"
  },
  {
- "slug": "portfolios/real-estate",
+ "slug": "real-estate",
  "text": "Real Estate",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/real-estate.png"
  },
  {
- "slug": "portfolios/jewelery",
+ "slug": "jewelery",
  "text": "Jewelry",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/jewelry.png"
  },
  {
- "slug": "portfolios/food-rstaurant",
+ "slug": "food-rstaurant",
  "text": "Food & Restaurant",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/food.png"
  },
  {
- "slug": "portfolios/medical-healthcare",
+ "slug": "medical-healthcare",
  "text": "Medical & Healthcare",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/medical.png"
  },
  {
- "slug": "portfolios/gaming",
+ "slug": "gaming",
  "text": "Gaming",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/game.png"
  },
  {
- "slug": "portfolios/cbd",
+ "slug": "cbd",
  "text": "CBD",
  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/cbd-1.png"
  }
